@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = edu.cifuentes@gmail.com
+	name = Eduardo Cifuentes
